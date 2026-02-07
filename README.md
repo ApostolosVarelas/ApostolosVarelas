@@ -8,7 +8,7 @@ I work with **deep learning, reinforcement learning, Python automation**, and I�
 
 ## About Me
 
-I’m passionate about building intelligent systems and solving complex problems with **AI & ML**. My experience spans from academic projects in **deep learning and reinforcement learning**, to hands-on work in **robotics**, automation, and satellite data processing. I enjoy designing scalable Python software that bridges theoretical models with practical deployment. :contentReference[oaicite:3]{index=3}
+I’m passionate about building intelligent systems and solving complex problems with **AI & ML**. My experience spans from academic projects in **deep learning and reinforcement learning**, to hands-on work in **robotics**, automation, and satellite data processing. I enjoy designing scalable Python software that bridges theoretical models with practical deployment.
 
 ---
 
