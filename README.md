@@ -35,6 +35,3 @@ Have a project or idea? Let’s connect!
 🔗 **Website:** https://apostolosvarelas.github.io/  
 🔗 **LinkedIn:** https://www.linkedin.com/in/apostolos-foivos-varelas-85a357227/
 
----
-
-⭐️ Thanks for visiting — let’s build something cool! 🚀
