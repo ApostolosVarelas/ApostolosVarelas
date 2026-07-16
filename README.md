@@ -33,5 +33,5 @@ Have a project or idea? Let’s connect!
 
 📧 **Email:** aposvarelas@gmail.com  
 🔗 **Website:** https://apostolosvarelas.github.io/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/apostolos-foivos-varelas-85a357227/
+🔗 **LinkedIn:** [https://www.linkedin.com/in/apostolos-foivos-varelas-85a357227/](https://www.linkedin.com/in/apostolos-varelas-85a357227/)
 
